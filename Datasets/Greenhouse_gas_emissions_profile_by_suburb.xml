@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xalan="http://xml.apache.org/xalan" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation gco:nilReason="missing"/>
+            <abstract>
+                <gco:CharacterString>City of Sydney community greenhouse gas emissions data in tCO2e by suburbs from baseline 2005/06 to data available for the latest financial year. Data includes emissions from electricity, gas, transport, waste and wastewater, largely derived from utility and statistical government data sets. GHG emissions sources: Electricity: Total greenhouse gas emissions resulting from the production and distribution of electricity used by all building sectors in the City of Sydney local government area. Gas: Total greenhouse gas emissions resulting from the distribution and use of natural gas by all building sectors in the City of Sydney local government area. Transport: Total greenhouse gas emissions from residential and work transport across all modes. Waste: Total greenhouse gas emissions resulting from the transport and disposal of residential and non-residential waste within the City of Sydney local government area. Wastewater: Total greenhouse gas emissions from estimated wastewater generated within the City of Sydney local government area</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Greenhouse gas emissions profile by suburb</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>City of Sydney</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>environmental</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>greenhouse has</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>emissions</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>environmental</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>greenhouse has</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>emissions</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>environmental</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>greenhouse has</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>emissions</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString> </gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>
